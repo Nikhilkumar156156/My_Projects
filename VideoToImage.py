@@ -2,7 +2,7 @@ import cv2
 import os
 
 # ✅ Safe path: use raw string with r''
-video_path = r'path'
+video_path = r'D:\Nikhil Kumar\New Project.mp4'
 
 cap = cv2.VideoCapture(video_path)
 
